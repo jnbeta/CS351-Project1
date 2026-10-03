@@ -1,0 +1,1076 @@
+[
+  {
+    "sku": "ML-BKR-250",
+    "name": "Borosilicate Beaker 250 mL",
+    "brand": "Meiko Glassworks",
+    "category": "Glassware",
+    "price": 12.95,
+    "image": "/images/beaker.svg",
+    "thumbnail": "/images/beaker.svg",
+    "shortDescription": "Low-form laboratory beaker with durable graduations and a clean-pour spout.",
+    "longDescription": "Built for everyday mixing, heating, decanting, and sample preparation. Heavy-duty borosilicate construction resists thermal shock while the matte marking area and easy-read graduations support repeatable bench work.",
+    "features": [
+      "Borosilicate 3.3 glass",
+      "Approximate graduations",
+      "Reinforced rim",
+      "Autoclavable",
+      "Chemical-resistant marking field"
+    ],
+    "specs": {
+      "Capacity": "250 mL",
+      "Graduation": "50 mL",
+      "Height": "95 mm",
+      "Diameter": "68 mm",
+      "Material": "Borosilicate glass"
+    },
+    "optionGroups": [
+      {
+        "name": "Pack",
+        "values": [
+          "Single",
+          "6 pack",
+          "12 pack"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-BKR-600",
+    "name": "Borosilicate Beaker 600 mL",
+    "brand": "Meiko Glassworks",
+    "category": "Glassware",
+    "price": 18.5,
+    "image": "/images/beaker.svg",
+    "thumbnail": "/images/beaker.svg",
+    "shortDescription": "Tall-capacity beaker for solution prep, heating, and routine lab handling.",
+    "longDescription": "A versatile 600 mL beaker with uniform wall thickness, a precision-pour spout, and durable enamel graduations for general chemistry, teaching, and research labs.",
+    "features": [
+      "Heat-resistant borosilicate",
+      "Wide mouth",
+      "Permanent graduations",
+      "Pour spout",
+      "Autoclavable"
+    ],
+    "specs": {
+      "Capacity": "600 mL",
+      "Graduation": "100 mL",
+      "Height": "125 mm",
+      "Diameter": "90 mm",
+      "Material": "Borosilicate glass"
+    },
+    "optionGroups": [
+      {
+        "name": "Pack",
+        "values": [
+          "Single",
+          "6 pack"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-ERL-500",
+    "name": "Erlenmeyer Flask 500 mL",
+    "brand": "Meiko Glassworks",
+    "category": "Glassware",
+    "price": 16.75,
+    "image": "/images/flask.svg",
+    "thumbnail": "/images/flask.svg",
+    "shortDescription": "Narrow-neck flask designed for swirling, mixing, and controlled heating.",
+    "longDescription": "The stable conical profile helps limit splashing during vigorous mixing. Borosilicate construction makes it suitable for common heat and chemical exposure in teaching and research environments.",
+    "features": [
+      "Conical anti-splash profile",
+      "Borosilicate 3.3 glass",
+      "Graduated body",
+      "Heavy base",
+      "Autoclavable"
+    ],
+    "specs": {
+      "Capacity": "500 mL",
+      "Neck OD": "34 mm",
+      "Height": "175 mm",
+      "Graduation": "100 mL",
+      "Material": "Borosilicate glass"
+    },
+    "optionGroups": [
+      {
+        "name": "Closure",
+        "values": [
+          "Open neck",
+          "Stopper-ready"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-VFL-100",
+    "name": "Class A Volumetric Flask 100 mL",
+    "brand": "Meiko Metrology",
+    "category": "Glassware",
+    "price": 28.0,
+    "image": "/images/flask.svg",
+    "thumbnail": "/images/flask.svg",
+    "shortDescription": "Calibrated volumetric flask for accurate solution preparation.",
+    "longDescription": "Individually calibrated to Class A tolerances for analytical workflows. The single calibration mark supports precise dilution while the included stopper minimizes evaporation and contamination.",
+    "features": [
+      "Class A tolerance",
+      "Single calibration mark",
+      "Included stopper",
+      "White enamel marking",
+      "Traceable batch marking"
+    ],
+    "specs": {
+      "Capacity": "100 mL",
+      "Tolerance": "\u00b10.10 mL",
+      "Stopper": "12/21",
+      "Calibration": "TC, 20\u00b0C",
+      "Material": "Borosilicate glass"
+    },
+    "optionGroups": [
+      {
+        "name": "Color mark",
+        "values": [
+          "Clear/white",
+          "Amber/white"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-CYL-250",
+    "name": "Graduated Cylinder 250 mL",
+    "brand": "Meiko Glassworks",
+    "category": "Measurement",
+    "price": 22.4,
+    "image": "/images/cylinder.svg",
+    "thumbnail": "/images/cylinder.svg",
+    "shortDescription": "Stable hex-base measuring cylinder with crisp, easy-read graduations.",
+    "longDescription": "Designed for dependable liquid volume measurement with a reinforced rim, broad base, and high-contrast graduations for fast reading at the bench.",
+    "features": [
+      "Hexagonal base",
+      "1 mL graduations",
+      "Pour lip",
+      "Chemical-resistant enamel",
+      "Autoclavable"
+    ],
+    "specs": {
+      "Capacity": "250 mL",
+      "Graduation": "2 mL",
+      "Tolerance": "\u00b12 mL",
+      "Height": "335 mm",
+      "Material": "Borosilicate glass"
+    },
+    "optionGroups": [
+      {
+        "name": "Pack",
+        "values": [
+          "Single",
+          "4 pack"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-TRK-60",
+    "name": "60-Place Test Tube Rack",
+    "brand": "Meiko Benchware",
+    "category": "Labware",
+    "price": 31.9,
+    "image": "/images/rack.svg",
+    "thumbnail": "/images/rack.svg",
+    "shortDescription": "Chemical-resistant rack for organized storage and transport of test tubes.",
+    "longDescription": "A rigid polypropylene rack with indexed rows and drainage openings. It is easy to clean, easy to carry, and sized for common culture and test tubes.",
+    "features": [
+      "60 positions",
+      "Alpha-numeric indexing",
+      "Autoclavable polypropylene",
+      "Drainage openings",
+      "Stackable footprint"
+    ],
+    "specs": {
+      "Positions": "60",
+      "Tube diameter": "13-16 mm",
+      "Material": "Polypropylene",
+      "Dimensions": "246 x 104 x 64 mm",
+      "Autoclave": "121\u00b0C"
+    },
+    "optionGroups": [
+      {
+        "name": "Color",
+        "values": [
+          "Blue",
+          "White",
+          "Green"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-HPS-7",
+    "name": "Digital Hotplate Stirrer 7 in",
+    "brand": "Meiko Instruments",
+    "category": "Instruments",
+    "price": 289.0,
+    "image": "/images/hotplate.svg",
+    "thumbnail": "/images/hotplate.svg",
+    "shortDescription": "Digital ceramic hotplate stirrer with precise temperature and speed controls.",
+    "longDescription": "A compact workhorse for routine heating and magnetic stirring. Independent LED displays, safety shutoff, and a chemical-resistant ceramic top make it suitable for demanding daily workflows.",
+    "features": [
+      "Digital speed and temperature display",
+      "Ceramic work surface",
+      "Hot-surface warning",
+      "Brushless DC motor",
+      "Over-temperature protection"
+    ],
+    "specs": {
+      "Plate": "7 x 7 in",
+      "Temperature range": "Ambient +5 to 550\u00b0C",
+      "Speed range": "100-1500 rpm",
+      "Max volume": "20 L",
+      "Power": "120 V"
+    },
+    "optionGroups": [
+      {
+        "name": "Plug",
+        "values": [
+          "US 120 V",
+          "EU 230 V"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-STB-8",
+    "name": "PTFE Magnetic Stir Bars, Set of 8",
+    "brand": "Meiko Benchware",
+    "category": "Labware",
+    "price": 19.95,
+    "image": "/images/stirbar.svg",
+    "thumbnail": "/images/stirbar.svg",
+    "shortDescription": "Mixed-size PTFE stir bar set for beakers, flasks, and bottles.",
+    "longDescription": "A practical assortment of smooth, chemical-resistant PTFE-coated stir bars for routine magnetic stirring applications.",
+    "features": [
+      "8-piece set",
+      "PTFE coating",
+      "Pivot-ring profiles",
+      "Chemical resistant",
+      "Reusable and easy to clean"
+    ],
+    "specs": {
+      "Count": "8",
+      "Lengths": "15-50 mm",
+      "Coating": "PTFE",
+      "Core": "Alnico magnet",
+      "Max temp": "250\u00b0C"
+    },
+    "optionGroups": [
+      {
+        "name": "Set",
+        "values": [
+          "Mixed sizes",
+          "Small-volume set",
+          "Large-volume set"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-PIP-1000",
+    "name": "Adjustable Micropipette 100-1000 \u00b5L",
+    "brand": "Meiko Precision",
+    "category": "Liquid Handling",
+    "price": 149.0,
+    "image": "/images/pipette.svg",
+    "thumbnail": "/images/pipette.svg",
+    "shortDescription": "Ergonomic single-channel pipette with smooth volume adjustment and low-force plunger.",
+    "longDescription": "Designed for accurate routine liquid handling with a clear volume window, tip-ejector, and autoclavable lower assembly. The balanced body helps reduce fatigue during repetitive work.",
+    "features": [
+      "100-1000 \u00b5L range",
+      "Four-digit volume display",
+      "Low-force plunger",
+      "Autoclavable lower section",
+      "Factory calibration certificate"
+    ],
+    "specs": {
+      "Volume range": "100-1000 \u00b5L",
+      "Increment": "1 \u00b5L",
+      "Accuracy at 1000 \u00b5L": "\u00b10.6%",
+      "Channels": "1",
+      "Compatibility": "Universal tips"
+    },
+    "optionGroups": [
+      {
+        "name": "Calibration",
+        "values": [
+          "Factory certificate",
+          "ISO 17025 certificate"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-TIP-1000",
+    "name": "Universal Pipette Tips 100-1000 \u00b5L",
+    "brand": "Meiko Precision",
+    "category": "Liquid Handling",
+    "price": 34.0,
+    "image": "/images/tips.svg",
+    "thumbnail": "/images/tips.svg",
+    "shortDescription": "Low-retention polypropylene pipette tips supplied in a hinged rack.",
+    "longDescription": "Clear universal tips designed for a reliable seal on common pipette brands. Low-retention resin helps improve sample recovery for routine molecular and analytical work.",
+    "features": [
+      "96 tips per rack",
+      "Low-retention polypropylene",
+      "Graduated tip body",
+      "Autoclavable rack",
+      "RNase/DNase-free option"
+    ],
+    "specs": {
+      "Volume": "100-1000 \u00b5L",
+      "Tips/rack": "96",
+      "Material": "Polypropylene",
+      "Sterility": "Selectable",
+      "Filter": "Selectable"
+    },
+    "optionGroups": [
+      {
+        "name": "Format",
+        "values": [
+          "Standard",
+          "Sterile",
+          "Sterile + filter"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-CEN-12",
+    "name": "Compact Microcentrifuge 12-Place",
+    "brand": "Meiko Instruments",
+    "category": "Instruments",
+    "price": 595.0,
+    "image": "/images/centrifuge.svg",
+    "thumbnail": "/images/centrifuge.svg",
+    "shortDescription": "Quiet benchtop microcentrifuge for rapid separation of microtubes.",
+    "longDescription": "A compact high-speed centrifuge with brushless motor, imbalance detection, and a quick-release rotor. Ideal for DNA prep, spin-downs, and general microtube separation.",
+    "features": [
+      "12-place rotor",
+      "Brushless motor",
+      "Lid interlock",
+      "Imbalance protection",
+      "Pulse-spin key"
+    ],
+    "specs": {
+      "Max speed": "15,000 rpm",
+      "Max RCF": "21,130 x g",
+      "Capacity": "12 x 1.5/2.0 mL",
+      "Timer": "30 sec-99 min",
+      "Noise": "<58 dBA"
+    },
+    "optionGroups": [
+      {
+        "name": "Power",
+        "values": [
+          "120 V",
+          "230 V"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-MIC-40",
+    "name": "Binocular Compound Microscope 40-1000x",
+    "brand": "Meiko Optics",
+    "category": "Optics",
+    "price": 429.0,
+    "image": "/images/microscope.svg",
+    "thumbnail": "/images/microscope.svg",
+    "shortDescription": "LED binocular microscope with plan objectives and mechanical stage.",
+    "longDescription": "A classroom- and lab-ready microscope featuring smooth coaxial focusing, bright LED illumination, and a precision mechanical stage for comfortable extended observation.",
+    "features": [
+      "40x-1000x magnification",
+      "Binocular head",
+      "Plan achromat objectives",
+      "LED illumination",
+      "Mechanical XY stage"
+    ],
+    "specs": {
+      "Eyepieces": "WF10x/18 mm",
+      "Objectives": "4x, 10x, 40x, 100x oil",
+      "Head": "30\u00b0 binocular",
+      "Illumination": "3 W LED",
+      "Stage": "140 x 140 mm"
+    },
+    "optionGroups": [
+      {
+        "name": "Included camera",
+        "values": [
+          "None",
+          "5 MP USB camera"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-PHM-2",
+    "name": "Benchtop pH Meter",
+    "brand": "Meiko Analytics",
+    "category": "Measurement",
+    "price": 219.0,
+    "image": "/images/meter.svg",
+    "thumbnail": "/images/meter.svg",
+    "shortDescription": "Automatic-temperature-compensated pH meter with large backlit display.",
+    "longDescription": "A straightforward benchtop meter for pH and mV measurement with guided calibration, stability indicator, and automatic temperature compensation.",
+    "features": [
+      "3-point pH calibration",
+      "ATC temperature probe",
+      "Backlit display",
+      "Stability indicator",
+      "Electrode stand included"
+    ],
+    "specs": {
+      "pH range": "-2.00 to 20.00",
+      "Resolution": "0.01 pH",
+      "Accuracy": "\u00b10.01 pH",
+      "mV range": "\u00b12000 mV",
+      "Temperature": "0-100\u00b0C"
+    },
+    "optionGroups": [
+      {
+        "name": "Electrode",
+        "values": [
+          "General purpose",
+          "Micro sample",
+          "Tris compatible"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-BAL-220",
+    "name": "Analytical Balance 220 g x 0.1 mg",
+    "brand": "Meiko Metrology",
+    "category": "Measurement",
+    "price": 749.0,
+    "image": "/images/balance.svg",
+    "thumbnail": "/images/balance.svg",
+    "shortDescription": "High-resolution analytical balance with draft shield and internal calibration.",
+    "longDescription": "Designed for reliable quantitative work, this balance combines 0.1 mg readability with fast stabilization, internal calibration, and an easy-clean glass draft shield.",
+    "features": [
+      "0.1 mg readability",
+      "Internal calibration",
+      "Glass draft shield",
+      "USB data output",
+      "Multiple weighing units"
+    ],
+    "specs": {
+      "Capacity": "220 g",
+      "Readability": "0.0001 g",
+      "Repeatability": "0.0001 g",
+      "Pan": "90 mm",
+      "Stabilization": "3 sec"
+    },
+    "optionGroups": [
+      {
+        "name": "Data interface",
+        "values": [
+          "USB",
+          "USB + RS-232"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-WBT-500",
+    "name": "LDPE Wash Bottle 500 mL",
+    "brand": "Meiko Benchware",
+    "category": "Labware",
+    "price": 8.25,
+    "image": "/images/bottle.svg",
+    "thumbnail": "/images/bottle.svg",
+    "shortDescription": "Flexible safety-labeled wash bottle with narrow-stream dispensing nozzle.",
+    "longDescription": "A durable squeeze bottle for controlled rinsing and solvent dispensing. The integral draw tube and molded graduations support easy daily use.",
+    "features": [
+      "Flexible LDPE body",
+      "Narrow dispensing stream",
+      "Leak-resistant cap",
+      "Molded graduations",
+      "Chemical label panel"
+    ],
+    "specs": {
+      "Capacity": "500 mL",
+      "Material": "LDPE",
+      "Cap": "PP",
+      "Graduations": "100 mL",
+      "Neck": "53 mm"
+    },
+    "optionGroups": [
+      {
+        "name": "Label",
+        "values": [
+          "Distilled water",
+          "Acetone",
+          "Ethanol",
+          "Blank"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-SFN-250",
+    "name": "Separatory Funnel 250 mL",
+    "brand": "Meiko Glassworks",
+    "category": "Glassware",
+    "price": 48.0,
+    "image": "/images/funnel.svg",
+    "thumbnail": "/images/funnel.svg",
+    "shortDescription": "Pear-shaped separatory funnel with PTFE stopcock and stopper.",
+    "longDescription": "Made for liquid-liquid extraction and phase separation, with a smooth PTFE stopcock and clear graduation marks for dependable laboratory handling.",
+    "features": [
+      "PTFE stopcock",
+      "Ground-glass stopper",
+      "Pear-shaped body",
+      "Chemical-resistant graduations",
+      "Autoclavable glass"
+    ],
+    "specs": {
+      "Capacity": "250 mL",
+      "Stopcock": "2 mm PTFE",
+      "Stopper": "19/22",
+      "Graduation": "25 mL",
+      "Material": "Borosilicate glass"
+    },
+    "optionGroups": [
+      {
+        "name": "Capacity",
+        "values": [
+          "125 mL",
+          "250 mL",
+          "500 mL"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-BUR-50",
+    "name": "Class A Burette 50 mL",
+    "brand": "Meiko Metrology",
+    "category": "Measurement",
+    "price": 59.0,
+    "image": "/images/cylinder.svg",
+    "thumbnail": "/images/cylinder.svg",
+    "shortDescription": "Precision burette with PTFE stopcock for titration and dispensing.",
+    "longDescription": "Class A calibrated borosilicate burette with crisp blue graduations and a smooth PTFE stopcock for repeatable titration work.",
+    "features": [
+      "Class A calibrated",
+      "PTFE stopcock",
+      "Blue permanent graduations",
+      "Straight bore",
+      "Batch certificate"
+    ],
+    "specs": {
+      "Capacity": "50 mL",
+      "Graduation": "0.1 mL",
+      "Tolerance": "\u00b10.05 mL",
+      "Length": "800 mm",
+      "Calibration": "TD, 20\u00b0C"
+    },
+    "optionGroups": [
+      {
+        "name": "Stopcock",
+        "values": [
+          "PTFE",
+          "Glass key"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-STD-90",
+    "name": "Heavy-Duty Retort Stand 90 cm",
+    "brand": "Meiko Benchware",
+    "category": "Support",
+    "price": 74.0,
+    "image": "/images/stand.svg",
+    "thumbnail": "/images/stand.svg",
+    "shortDescription": "Stable cast-base support stand for clamps, rings, and general apparatus.",
+    "longDescription": "A sturdy lab support system with a powder-coated cast base and stainless rod. Compatible with standard bossheads, clamps, and support rings.",
+    "features": [
+      "Heavy cast base",
+      "Stainless steel rod",
+      "Non-slip feet",
+      "Corrosion-resistant finish",
+      "Standard clamp compatibility"
+    ],
+    "specs": {
+      "Rod height": "900 mm",
+      "Rod diameter": "12 mm",
+      "Base": "280 x 180 mm",
+      "Base mass": "4.3 kg",
+      "Material": "Steel/stainless steel"
+    },
+    "optionGroups": [
+      {
+        "name": "Bundle",
+        "values": [
+          "Stand only",
+          "Stand + 2 clamps",
+          "Stand + clamp/ring set"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-GOG-1",
+    "name": "Anti-Fog Chemical Splash Goggles",
+    "brand": "Meiko Safety",
+    "category": "Safety",
+    "price": 17.95,
+    "image": "/images/safety.svg",
+    "thumbnail": "/images/safety.svg",
+    "shortDescription": "Indirect-vent goggles with anti-fog lens and broad peripheral coverage.",
+    "longDescription": "Comfort-focused splash goggles for chemistry and wet-lab work. The soft seal, adjustable strap, and anti-fog lens improve fit and visibility during extended use.",
+    "features": [
+      "Indirect venting",
+      "Anti-fog polycarbonate lens",
+      "Wide field of view",
+      "Adjustable elastic strap",
+      "Fits over many prescription glasses"
+    ],
+    "specs": {
+      "Lens": "Polycarbonate",
+      "Coating": "Anti-fog/anti-scratch",
+      "Vent": "Indirect",
+      "Weight": "88 g",
+      "Fit": "Universal"
+    },
+    "optionGroups": [
+      {
+        "name": "Lens",
+        "values": [
+          "Clear",
+          "Amber UV"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-GLV-100",
+    "name": "Nitrile Exam Gloves, 100 Count",
+    "brand": "Meiko Safety",
+    "category": "Safety",
+    "price": 21.5,
+    "image": "/images/safety.svg",
+    "thumbnail": "/images/safety.svg",
+    "shortDescription": "Powder-free nitrile gloves with textured fingertips for confident handling.",
+    "longDescription": "A versatile disposable glove for general laboratory handling, cleanup, and sample preparation, offering a secure fit and strong tactile response.",
+    "features": [
+      "Powder-free nitrile",
+      "Textured fingertips",
+      "Ambidextrous design",
+      "Latex-free",
+      "Beaded cuff"
+    ],
+    "specs": {
+      "Count": "100",
+      "Thickness": "4 mil",
+      "Material": "Nitrile",
+      "Color": "Blue",
+      "Cuff": "Beaded"
+    },
+    "optionGroups": [
+      {
+        "name": "Size",
+        "values": [
+          "Small",
+          "Medium",
+          "Large",
+          "XL"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-COAT-W",
+    "name": "Poly-Cotton Laboratory Coat",
+    "brand": "Meiko Safety",
+    "category": "Safety",
+    "price": 42.0,
+    "image": "/images/safety.svg",
+    "thumbnail": "/images/safety.svg",
+    "shortDescription": "Professional white lab coat with knit cuffs and multiple utility pockets.",
+    "longDescription": "A durable, comfortable lab coat built for teaching and research settings, with a snap front, side access openings, and reinforced pockets.",
+    "features": [
+      "65/35 poly-cotton",
+      "Knit cuffs",
+      "Three pockets",
+      "Snap front",
+      "Side access slits"
+    ],
+    "specs": {
+      "Fabric": "65% polyester / 35% cotton",
+      "Length": "Knee length",
+      "Closure": "Snaps",
+      "Pockets": "3",
+      "Care": "Machine wash"
+    },
+    "optionGroups": [
+      {
+        "name": "Size",
+        "values": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-PET-90",
+    "name": "Sterile Petri Dishes 90 mm, Pack of 20",
+    "brand": "Meiko BioLab",
+    "category": "Cultureware",
+    "price": 24.0,
+    "image": "/images/petri.svg",
+    "thumbnail": "/images/petri.svg",
+    "shortDescription": "Optically clear sterile dishes with stackable lids for culture work.",
+    "longDescription": "Pre-sterilized polystyrene dishes with consistent flatness and smooth interior surfaces for bacterial and fungal culture workflows.",
+    "features": [
+      "Sterile",
+      "Optically clear",
+      "Stacking rim",
+      "Ventable lid",
+      "Individually sleeved stacks"
+    ],
+    "specs": {
+      "Diameter": "90 mm",
+      "Depth": "15 mm",
+      "Material": "Polystyrene",
+      "Sterility": "Gamma irradiated",
+      "Count": "20"
+    },
+    "optionGroups": [
+      {
+        "name": "Vent style",
+        "values": [
+          "3-vent",
+          "No-vent"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-RBT-500",
+    "name": "Amber Reagent Bottle 500 mL",
+    "brand": "Meiko Glassworks",
+    "category": "Storage",
+    "price": 15.6,
+    "image": "/images/bottle.svg",
+    "thumbnail": "/images/bottle.svg",
+    "shortDescription": "Amber borosilicate bottle with GL45 screw cap for light-sensitive reagents.",
+    "longDescription": "A durable media and reagent bottle with UV-protective amber glass, drip-free pouring ring, and autoclavable cap assembly.",
+    "features": [
+      "Amber UV protection",
+      "GL45 screw cap",
+      "Pouring ring",
+      "Autoclavable",
+      "Permanent graduation scale"
+    ],
+    "specs": {
+      "Capacity": "500 mL",
+      "Neck": "GL45",
+      "Glass": "Amber borosilicate",
+      "Cap": "Polypropylene",
+      "Autoclave": "121\u00b0C"
+    },
+    "optionGroups": [
+      {
+        "name": "Capacity",
+        "values": [
+          "250 mL",
+          "500 mL",
+          "1000 mL"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-THM-200",
+    "name": "Digital Probe Thermometer",
+    "brand": "Meiko Analytics",
+    "category": "Measurement",
+    "price": 36.0,
+    "image": "/images/meter.svg",
+    "thumbnail": "/images/meter.svg",
+    "shortDescription": "Fast-reading stainless probe thermometer with min/max memory.",
+    "longDescription": "A general-purpose digital thermometer for baths, samples, and incubator checks, with a long stainless probe and selectable \u00b0C/\u00b0F display.",
+    "features": [
+      "Fast response",
+      "Min/max memory",
+      "Stainless probe",
+      "Hold function",
+      "Auto power-off"
+    ],
+    "specs": {
+      "Range": "-50 to 300\u00b0C",
+      "Resolution": "0.1\u00b0C",
+      "Accuracy": "\u00b10.5\u00b0C",
+      "Probe": "150 mm stainless steel",
+      "Ingress": "IP54"
+    },
+    "optionGroups": [
+      {
+        "name": "Probe length",
+        "values": [
+          "150 mm",
+          "300 mm"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-VTX-1",
+    "name": "Mini Vortex Mixer",
+    "brand": "Meiko Instruments",
+    "category": "Instruments",
+    "price": 169.0,
+    "image": "/images/mixer.svg",
+    "thumbnail": "/images/mixer.svg",
+    "shortDescription": "Compact single-tube vortex mixer with touch and continuous modes.",
+    "longDescription": "A stable, low-profile mixer for rapid tube resuspension. Variable speed and a durable cup head make it useful for routine sample preparation.",
+    "features": [
+      "Touch or continuous operation",
+      "Variable speed",
+      "Heavy anti-walk base",
+      "Brushless motor",
+      "Cup head included"
+    ],
+    "specs": {
+      "Speed": "0-2800 rpm",
+      "Orbit": "4.5 mm",
+      "Mode": "Touch/continuous",
+      "Power": "40 W",
+      "Weight": "2.6 kg"
+    },
+    "optionGroups": [
+      {
+        "name": "Head",
+        "values": [
+          "Cup head",
+          "Cup + microtube rack"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-WTB-6",
+    "name": "Digital Water Bath 6 L",
+    "brand": "Meiko Instruments",
+    "category": "Instruments",
+    "price": 399.0,
+    "image": "/images/waterbath.svg",
+    "thumbnail": "/images/waterbath.svg",
+    "shortDescription": "Stainless digital water bath with precise PID temperature control.",
+    "longDescription": "A compact 6 L circulating-free bath for incubation, warming, and sample conditioning. The seamless tank, hinged lid, and intuitive controls simplify daily cleanup and operation.",
+    "features": [
+      "PID temperature control",
+      "Stainless tank",
+      "Over-temperature protection",
+      "Drain port",
+      "Hinged clear lid"
+    ],
+    "specs": {
+      "Capacity": "6 L",
+      "Temperature": "Ambient +5 to 100\u00b0C",
+      "Uniformity": "\u00b10.3\u00b0C",
+      "Display": "0.1\u00b0C",
+      "Tank": "300 x 150 x 150 mm"
+    },
+    "optionGroups": [
+      {
+        "name": "Rack",
+        "values": [
+          "No rack",
+          "Test tube rack",
+          "Bottle rack"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-DSC-200",
+    "name": "Glass Vacuum Desiccator 200 mm",
+    "brand": "Meiko Glassworks",
+    "category": "Storage",
+    "price": 189.0,
+    "image": "/images/desiccator.svg",
+    "thumbnail": "/images/desiccator.svg",
+    "shortDescription": "Heavy-wall desiccator for dry storage and vacuum-assisted conditioning.",
+    "longDescription": "A robust borosilicate desiccator with ground flange, perforated porcelain plate, and vacuum stopcock for moisture-sensitive samples and materials.",
+    "features": [
+      "Ground-glass flange",
+      "Vacuum stopcock",
+      "Porcelain plate included",
+      "Heavy-wall borosilicate",
+      "Grease channel seal"
+    ],
+    "specs": {
+      "Plate diameter": "200 mm",
+      "Internal diameter": "215 mm",
+      "Height": "300 mm",
+      "Stopcock": "PTFE",
+      "Material": "Borosilicate glass"
+    },
+    "optionGroups": [
+      {
+        "name": "Size",
+        "values": [
+          "150 mm",
+          "200 mm",
+          "250 mm"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-FLT-110",
+    "name": "Qualitative Filter Paper 110 mm, 100 Pack",
+    "brand": "Meiko Consumables",
+    "category": "Filtration",
+    "price": 18.0,
+    "image": "/images/filter.svg",
+    "thumbnail": "/images/filter.svg",
+    "shortDescription": "Medium-flow cellulose filter paper for routine qualitative separations.",
+    "longDescription": "Uniform cellulose paper suited to general precipitate collection and gravity filtration in chemistry, environmental, and teaching labs.",
+    "features": [
+      "Medium flow rate",
+      "100% cellulose",
+      "Low ash",
+      "Uniform thickness",
+      "100 circles per pack"
+    ],
+    "specs": {
+      "Diameter": "110 mm",
+      "Retention": "11 \u00b5m",
+      "Thickness": "180 \u00b5m",
+      "Ash": "<0.15%",
+      "Count": "100"
+    },
+    "optionGroups": [
+      {
+        "name": "Diameter",
+        "values": [
+          "90 mm",
+          "110 mm",
+          "125 mm"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-VAC-20",
+    "name": "Oil-Free Vacuum Pump 20 L/min",
+    "brand": "Meiko Instruments",
+    "category": "Instruments",
+    "price": 315.0,
+    "image": "/images/pump.svg",
+    "thumbnail": "/images/pump.svg",
+    "shortDescription": "Compact diaphragm vacuum pump for filtration, aspiration, and degassing.",
+    "longDescription": "An oil-free diaphragm pump with chemically resistant wetted components and a carrying handle for clean, portable vacuum service.",
+    "features": [
+      "Oil-free diaphragm design",
+      "Chemical-resistant head",
+      "Integrated vacuum regulator",
+      "Low maintenance",
+      "Portable handle"
+    ],
+    "specs": {
+      "Flow": "20 L/min",
+      "Ultimate vacuum": "100 mbar",
+      "Ports": "8 mm hose barb",
+      "Noise": "<52 dBA",
+      "Power": "120 W"
+    },
+    "optionGroups": [
+      {
+        "name": "Power",
+        "values": [
+          "120 V",
+          "230 V"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-OSK-3",
+    "name": "Digital Orbital Shaker",
+    "brand": "Meiko Instruments",
+    "category": "Instruments",
+    "price": 489.0,
+    "image": "/images/shaker.svg",
+    "thumbnail": "/images/shaker.svg",
+    "shortDescription": "Programmable orbital shaker for flasks, bottles, and culture vessels.",
+    "longDescription": "A quiet benchtop shaker with digital speed and timer controls, gentle ramping, and a versatile platform for research and teaching workflows.",
+    "features": [
+      "Digital speed display",
+      "Timer and continuous modes",
+      "Soft-start acceleration",
+      "Brushless motor",
+      "Over-speed protection"
+    ],
+    "specs": {
+      "Speed": "40-300 rpm",
+      "Orbit": "20 mm",
+      "Platform": "300 x 300 mm",
+      "Load": "3 kg",
+      "Timer": "1 min-19 h 59 min"
+    },
+    "optionGroups": [
+      {
+        "name": "Platform",
+        "values": [
+          "Flat platform",
+          "Universal clamp platform"
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "ML-CON-1",
+    "name": "Portable Conductivity Meter",
+    "brand": "Meiko Analytics",
+    "category": "Measurement",
+    "price": 179.0,
+    "image": "/images/meter.svg",
+    "thumbnail": "/images/meter.svg",
+    "shortDescription": "Water-resistant conductivity/TDS meter with automatic ranging and temperature compensation.",
+    "longDescription": "A portable meter for water quality, process checks, and teaching labs, with quick calibration, replaceable probe, and a rugged field case.",
+    "features": [
+      "Conductivity and TDS modes",
+      "Automatic ranging",
+      "Temperature compensation",
+      "Replaceable probe",
+      "Protective carrying case"
+    ],
+    "specs": {
+      "Conductivity": "0.00 \u00b5S/cm to 200.0 mS/cm",
+      "Accuracy": "\u00b11% FS",
+      "Temperature": "0-80\u00b0C",
+      "Ingress": "IP67 meter body",
+      "Calibration": "1-3 point"
+    },
+    "optionGroups": [
+      {
+        "name": "Probe",
+        "values": [
+          "Standard",
+          "Low conductivity",
+          "High conductivity"
+        ]
+      }
+    ]
+  }
+]
