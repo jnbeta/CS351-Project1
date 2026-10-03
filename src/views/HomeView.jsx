@@ -28,7 +28,7 @@ export default function HomeView({ products }) {
             <div className="col-lg-6">
               <div className="hero-visual shadow-lg">
                 <div className="hero-grid-lines" aria-hidden="true" />
-                <img src="/images/hero-lab.svg" alt="Illustration of laboratory glassware and instruments" className="img-fluid" />
+                <img src="./images/hero-lab.svg" alt="Illustration of laboratory glassware and instruments" className="img-fluid" />
                 <div className="hero-floating-card">
                   <span className="small text-uppercase">Featured category</span>
                   <strong>Precision glassware</strong>

@@ -97,3 +97,35 @@ The app uses Bootstrap's mobile-first grid (`container`, `row`, `col-*`), respon
 ## Design source
 
 No third-party design template was used. The visual system, layout, logo mark, CSS, and product SVG illustrations were created specifically for this project. Bootstrap provides the underlying component/grid framework, with custom CSS in `src/styles.css` supplying Meiko Labs branding and presentation.
+
+## References, templates, and framework documentation
+
+No third-party storefront theme or design template was used. The Meiko Labs layout, branding, custom CSS, logo treatment, and local SVG product illustrations were created specifically for this project. Bootstrap is used as a framework rather than as a copied website template.
+
+A detailed explanation of the Bootstrap classes/JavaScript behavior, custom CSS, React patterns, Vite setup, and official documentation links is included in **[REFERENCES.md](./REFERENCES.md)**.
+
+Key references:
+- Bootstrap 5.3: https://getbootstrap.com/docs/5.3/getting-started/introduction/
+- Bootstrap grid: https://getbootstrap.com/docs/5.3/layout/grid/
+- Bootstrap navbar: https://getbootstrap.com/docs/5.3/components/navbar/
+- React: https://react.dev/
+- React `useState`: https://react.dev/reference/react/useState
+- React list rendering: https://react.dev/learn/rendering-lists
+- MDN CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
+- MDN media queries: https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries/Using
+- Vite: https://vite.dev/guide/
+
+## Google Cloud Storage deployment note
+
+When this SPA is hosted under a Google Cloud Storage bucket URL such as
+`https://storage.googleapis.com/cs351_website/index.html`, image URLs must be
+relative to the bucket path. The project therefore uses `./images/...` rather
+than `/images/...`.
+
+Why: a leading slash is origin-relative. For example, `/images/beaker.svg`
+would make the browser request `https://storage.googleapis.com/images/beaker.svg`,
+which omits the `cs351_website` bucket name. `./images/beaker.svg` correctly
+resolves to `https://storage.googleapis.com/cs351_website/images/beaker.svg`.
+
+After rebuilding, upload the complete contents of `dist/`, including the
+`dist/images/` directory, not just `index.html` and `assets/`.
